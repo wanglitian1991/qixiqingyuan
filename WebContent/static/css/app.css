@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.nav-top{
+		height:26px;
+		background: #eee;	
+	}
+	.nav-top span{
+		font-size:18px;
+		font-weight:bold;
+		line-height:26px;
+		color: red;
+	}
+	.main img{
+		height:180px;
+		width: 250px
+	}
